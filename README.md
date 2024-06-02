@@ -1,4 +1,4 @@
-t### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on [askdea.ai](https://askdea.ai), [semudahitu.id](https://semudahitu.id), [lebahdev](https://lebahdev.vercel.app/) & [socialcrab.id](https://socialcrab.id/)
 - 🌱 I’m currently learning [sveltekit](https://kit.svelte.dev/) & [nextjs](https://nextjs.org/)
